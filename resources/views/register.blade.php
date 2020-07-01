@@ -26,7 +26,7 @@
             <p>Language Spoken</p>
             <input type="checkbox" name="language" value="Indonesian">Bahasa Indonesia <br>
             <input type="checkbox" name="language" value="English">English <br>
-            <input type="checkbox" name="language" value="Other">Other 
+            <input type="checkbox" name="language" value="Otherg">Other 
             <p>Bio</p>
             <textarea id="w3review" name="w3review" rows="8">
             </textarea><br>

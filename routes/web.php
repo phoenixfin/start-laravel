@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
-Route::get('/form', 'RegisterController@form');
+Route::get('/register', 'RegisterController@register');
 
 // Route::get('/welcome', 'RegisterController@welcome');
 Route::post('/welcome', 'RegisterController@welcome_post');
